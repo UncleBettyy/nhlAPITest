@@ -1,2 +1,2 @@
 # nhlAPITest
-Testing out the NHL REST API
+Testing out the NHL public REST API
